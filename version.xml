@@ -3,10 +3,10 @@
   <channel>
     <title>Nomin Eshop</title>
     <item>
-      <title>Version 1.0.2</title>
+      <title>Version 1.0.1</title>
       <description>Added last seen products.</description>
       <pubDate>Fri, 27 Jan 2023 09:00:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=mn.nomin.eshop" sparkle:version="1.0.2" sparkle:os="ios" />
+      <enclosure url="https://apps.apple.com/mn/app/nomin-eshop/id6444114008" sparkle:version="1.0.1" sparkle:os="ios" />
     </item>
     <item>
       <title>Version 1.0.2</title>
